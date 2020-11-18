@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://tbedingfield:ZXCasd123@devconnector.krokr.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "f2013624d5e3aac305e",
-  "githubSecret": "b198cc3fb15730a2dd09bbfc96a9c4fbca8387e7"
-}
